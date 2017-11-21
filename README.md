@@ -1,3 +1,3 @@
 # hello-world
 Testing GitHub
-Just testing out guthub for a new repository!
+Just testing out github for a new repository!
